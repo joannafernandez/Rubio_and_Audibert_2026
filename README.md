@@ -1,7 +1,7 @@
 # Rubio_and_Audibert_compile
-Compilation of scripts used for analysis and plotting used in the article "DNA damage in blah blah blah" 
+Compilation of python and shell scripts used for analysis and plotting  in the article "DNA damage at Lamina-Associated Domains triggers nuclear envelope reorganization and chromatin detachment to prevent nuclear envelope blebbing and genome instability." 
 
-Citation 
+
 
 ---
 
@@ -19,12 +19,11 @@ Citation
    >
    > Plotting averaged bigwigs (not spike normalised) of LaminB1 and 53BP1 signal in DMSO condition (with and without DNA damage)
    >
-   > nb outdated version: Figure2.py
    
 3. TIDEKO_verify_withrelativepercentage.py
    > plotting TIDE data (relative summation of significant indels only) of knock out pools with various single guide RNAs
    >
-   > nb ExtendedFig3and4_TIDe_sgKO.py is outdated without relative percentage calculation
+  
 
 4. ExtendedFig5f_pATMyH2AXcoloc.py
    > analysis and plotting of per nuclei and foci colocalisation rates between yH2AX and pATM in WT and 53BP1-/- cells
@@ -40,5 +39,4 @@ Citation
    >
    > Figure4a_ExtFig6ijk_heatmaps.py is script used to plot heatmaps only
    >
-   > nb disregard ATAC_heatmap.py and barebones.py, outdated 
    
